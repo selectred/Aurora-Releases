@@ -8,8 +8,8 @@ Aurora runs a five-stage AI pipeline — Probe → Plan → Generate → Run →
 
 | Platform | Link |
 |----------|------|
-| macOS Apple Silicon | [Aurora_0.2.0_aarch64.dmg](https://github.com/selectred/Aurora-Releases/releases/download/v0.2.0-beta.1/Aurora_0.2.0_aarch64.dmg) |
-| Windows x64 | [Aurora_0.2.0_x64-setup.exe](https://github.com/selectred/Aurora-Releases/releases/download/v0.2.0-beta.1/Aurora_0.2.0_x64-setup.exe) |
+| macOS (Apple Silicon) | [Aurora_0.2.0_aarch64.dmg](https://github.com/selectred/Aurora-Releases/releases/download/v0.2.0/Aurora_0.2.0_aarch64.dmg) |
+| Windows x64 | [Aurora_0.2.0_x64-setup.exe](https://github.com/selectred/Aurora-Releases/releases/download/v0.2.0/Aurora_0.2.0_x64-setup.exe) |
 
 Or download from the [product page](https://aurora.selectred.com/products/aurora).
 
