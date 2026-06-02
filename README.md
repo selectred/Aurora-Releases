@@ -8,14 +8,14 @@ Aurora runs a five-stage AI pipeline — Probe → Plan → Generate → Run →
 
 | Platform | Link |
 |----------|------|
-| macOS (Apple Silicon) | [Aurora_0.2.0_aarch64.dmg](https://github.com/selectred/Aurora-Releases/releases/download/v0.2.0/Aurora_0.2.0_aarch64.dmg) |
-| Windows x64 | [Aurora_0.2.0_x64-setup.exe](https://github.com/selectred/Aurora-Releases/releases/download/v0.2.0/Aurora_0.2.0_x64-setup.exe) |
+| macOS (Apple Silicon) | [Aurora_1.0.0_aarch64.dmg](https://github.com/selectred/Aurora-Releases/releases/download/v1.0.0/Aurora_1.0.0_aarch64.dmg) |
+| Windows x64 | [Aurora_1.0.0_x64-setup.exe](https://github.com/selectred/Aurora-Releases/releases/download/v1.0.0/Aurora_1.0.0_x64-setup.exe) |
 
 Or download from the [product page](https://aurora.selectred.com/products/aurora).
 
-## Note on code signing
+## Installation
 
-Aurora is not yet code-signed. On macOS, right-click the app and select **Open** on first launch. On Windows, click **More info → Run anyway** in the SmartScreen prompt. The publisher is **Selectred Ltd**.
+Aurora is code-signed and notarized. On macOS, open the `.dmg` and drag Aurora to your Applications folder. On Windows, click **More info → Run anyway** in the SmartScreen prompt if prompted. The publisher is **Select Red Ltd**.
 
 ## Source code
 
